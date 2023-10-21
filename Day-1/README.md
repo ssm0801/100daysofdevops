@@ -70,4 +70,5 @@ As you can see in the cover image, the infinity symbol is a kind of logo that re
 DevOps is not just a buzzword; it's a game-changer in the world of software development. While it may seem overwhelming at first, especially for beginners, the principles and practices of DevOps are designed to make software development more efficient, collaborative, and responsive to user needs. As you embark on your DevOps journey, remember that it's a cultural shift as much as a technological one. Embrace collaboration, automation, and continuous improvement, and you'll find that DevOps can empower you to deliver better software faster.
 
 Happy DevOps journey! 👋
+
 [Read it here](https://sudhanshumotewar.hashnode.dev/kickstart-to-devops-introduction-and-overview)
