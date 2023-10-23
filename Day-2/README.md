@@ -70,7 +70,11 @@ CLI is like talking to a computer using special words (commands), you type in co
 
 `tar -xvzf <tar-file>` - extract the tar file
 
+<br />
+
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698042618038/99c6fdbb-09b8-4ee5-b6f5-d9e60c76271b.png)
+
+<br />
 
 ### 2️⃣ Create or delete files and directories 📝
 
@@ -93,8 +97,10 @@ CLI is like talking to a computer using special words (commands), you type in co
 `rm -d <dir>` - delete an empty directory
 
 `rm -r <dir>` - delete a non-empty directory
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698043625065/6cdd9a23-f4ce-49ac-a80c-9bee51d8a31a.png)
+<br />
 
 ### 3️⃣ File operations ⚙️
 
@@ -111,8 +117,10 @@ CLI is like talking to a computer using special words (commands), you type in co
 `cmp file1 file2` - display only the first difference
 
 `diff file1 file2` - display all differences
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698044796130/20ee12fb-53f5-49d9-90d2-960f4bbed5bf.png)
+<br />
 
 ### 4️⃣ List files 📃
 
@@ -135,14 +143,18 @@ Flags
 `ls -a` - list hidden files also
 
 `ls -R` - shows files and dir with subdirectories content
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698045077986/b4235f87-ee4c-48d9-82e9-91fb39baf811.png)
+<br />
 
 ### 5️⃣ Read file data and details ✔️
 
 `wc <file>` - display no. of lines, words, and characters in file
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698045595082/5565b6c1-b24d-4f4e-b3d8-230bb7ae6e9f.png)
+<br />
 
 `cat <file>` - display the content of the file
 
@@ -151,8 +163,10 @@ Flags
 `tac <file>` : display the content of the file line-wise from bottom to top
 
 `rev <file>` : each line in reverse order from top to bottom
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698045652376/7937e86e-5615-4662-824c-0d96ff83eac6.png)
+<br />
 
 `head <file>` : display top lines of file [default is 10]
 
@@ -163,8 +177,10 @@ Flags
 `tail -n <number> <file>` : display bottom n lines
 
 `tail -n +<number> <file>` : display lines from nth to last
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698045929056/3755c21e-ee21-4039-aaa3-80c69931f595.png)
+<br />
 
 `grep 'text' file` : display matched lines with the file name
 
@@ -177,8 +193,10 @@ Flags
 `grep -i 'text'` file : search text in file [case insensitive]
 
 `grep -R 'text'` : search text in all sub dir file
+<br />
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698047705704/ab63f577-d7ff-4fa3-b0bc-c44572aedd72.png)
+<br />
 
 ---
 
