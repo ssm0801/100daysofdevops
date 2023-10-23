@@ -129,7 +129,7 @@ CLI is like talking to a computer using special words (commands), you type in co
 `ls <dir>` - used to list files and dir in a given dir
 
 <br />
-**_Flags_**
+Flags
 
 `ls -l` - list files and dir with info
 
